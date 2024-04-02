@@ -20,4 +20,4 @@ print(q.get())
 # 사용한 자료구조 : queue
 # 시간복잡도: O(N)
         
-# https://www.acmicpc.net/problem/10773
+# https://www.acmicpc.net/problem/2164
